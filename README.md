@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Nishant 👋
 
-<!--
-**nishantkrmishra/nishantkrmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 About Me
+- Student exploring full-stack development
+- Building real-world projects (not tutorial junk)
+- Currently working on **Vaultly – Local Password Manager**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+
+#### 🔐 Vaultly (In Progress)
+- Local-first password manager
+- Electron app (Windows packaging ongoing)
+- AES-256 encryption
+- UI: minimal, premium, vault-style
+
+👉 https://github.com/nishantkrmishra/vaultly-app
+
+---
+
+### 🛠 Tech Stack
+- TypeScript
+- React
+- Vite
+- Electron
+- Tailwind CSS
+
+---
+
+### 📍 Current Focus
+- Improving UI/UX consistency
+- Packaging desktop app (.exe)
+- Building browser extension (planned)
+
+---
+
+### ⚠️ Status
+- UI: 80% done
+- Settings logic: partially working
+- Packaging: in progress
+- Extension: not started
+
+---
+
+### 📫 Contact
+- Email: mnishdec@gmail.com
