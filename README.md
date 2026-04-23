@@ -45,3 +45,8 @@
 
 ### 📫 Contact
 - Email: mnishdec@gmail.com
+
+## 📸 Preview
+
+![Vault UI](./assets/vault.png)
+![Settings UI](./assets/settings.png)
